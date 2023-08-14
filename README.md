@@ -1,6 +1,6 @@
 # Conversion_Prediction
 
-Goal: Understand user behavior and predict conversion rate based on user data.
+## Goal:## Understand user behavior and predict conversion rate based on user data.
 
 Challenge: The dataset contains several features, such as the user's country, age, and the number of pages visited during their session. The primary challenge is to extract meaningful insights from this data and build a predictive model that can accurately predict whether a user will convert.
 
